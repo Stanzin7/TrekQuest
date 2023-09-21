@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "title": "Mountain Trails",
+    "length": 6,
+    "groupLimit": 20,
+    "challenge": "moderate",
+    "averageRating": 4.6,
+    "reviewsCount": 40,
+    "cost": 420,
+    "overview": "Mesmerizing trek across the Rockies",
+    "details": "Embark on a mesmerizing journey through the heart of the Rockies. Experience the pristine beauty of nature and the tranquility of the mountains.",
+    "coverPhoto": "mountain-trail.jpg",
+    "photoGallery": ["trail1.jpg", "trail2.jpg", "trail3.jpg"],
+    "departureDates": [
+      "2022-05-15,09:00",
+      "2022-08-20,09:00",
+      "2022-11-10,09:00"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Oceanic Expeditions",
+    "length": 8,
+    "groupLimit": 15,
+    "challenge": "intermediate",
+    "averageRating": 4.8,
+    "reviewsCount": 25,
+    "cost": 520,
+    "overview": "Discovering the marvels of the Pacific Coast",
+    "details": "Sail across the majestic Pacific, exploring hidden coves and pristine beaches. Dive into the deep and witness the vibrant marine life in its natural habitat.",
+    "coverPhoto": "ocean-expedition.jpg",
+    "photoGallery": ["ocean1.jpg", "ocean2.jpg", "ocean3.jpg"],
+    "departureDates": [
+      "2022-06-05,08:00",
+      "2022-09-25,08:00",
+      "2023-01-20,08:00"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Desert Safari",
+    "length": 7,
+    "groupLimit": 12,
+    "challenge": "hard",
+    "averageRating": 4.5,
+    "reviewsCount": 30,
+    "cost": 600,
+    "overview": "Experience the mystical allure of the Sahara",
+    "details": "Journey into the heart of the Sahara, where golden dunes stretch as far as the eye can see. Revel in the silent majesty of the desert and camp under a canopy of stars.",
+    "coverPhoto": "desert-safari.jpg",
+    "photoGallery": ["desert1.jpg", "desert2.jpg", "desert3.jpg"],
+    "departureDates": [
+      "2022-04-20,07:00",
+      "2022-10-15,07:00",
+      "2023-03-10,07:00"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Jungle Adventure",
+    "length": 5,
+    "groupLimit": 18,
+    "challenge": "hard",
+    "averageRating": 4.7,
+    "reviewsCount": 33,
+    "cost": 450,
+    "overview": "Delve deep into the Amazonian wilderness",
+    "details": "Navigate the dense canopy of the Amazon, encounter exotic wildlife, and learn about the rich biodiversity that the rainforest has to offer.",
+    "coverPhoto": "jungle-adventure.jpg",
+    "photoGallery": ["jungle1.jpg", "jungle2.jpg", "jungle3.jpg"],
+    "departureDates": [
+      "2022-06-20,08:00",
+      "2022-12-15,08:00",
+      "2023-02-05,08:00"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Polar Expeditions",
+    "length": 10,
+    "groupLimit": 10,
+    "challenge": "extreme",
+    "averageRating": 5.0,
+    "reviewsCount": 12,
+    "cost": 900,
+    "overview": "Witness the frozen beauty of the Arctic",
+    "details": "Embark on a journey to the frozen ends of the Earth. Experience the sheer beauty of icebergs, glaciers, and witness polar wildlife in their natural habitat.",
+    "coverPhoto": "polar-expedition.jpg",
+    "photoGallery": ["polar1.jpg", "polar2.jpg", "polar3.jpg"],
+    "departureDates": [
+      "2022-07-10,09:00",
+      "2023-01-15,09:00",
+      "2023-04-10,09:00"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Historical Europe Tour",
+    "length": 9,
+    "groupLimit": 25,
+    "challenge": "easy",
+    "averageRating": 4.5,
+    "reviewsCount": 55,
+    "cost": 700,
+    "overview": "Step back in time in the heart of Europe",
+    "details": "Travel through cities steeped in history and culture. Visit iconic landmarks, museums, and remnants of a time gone by.",
+    "coverPhoto": "europe-tour.jpg",
+    "photoGallery": ["europe1.jpg", "europe2.jpg", "europe3.jpg"],
+    "departureDates": [
+      "2022-06-01,10:00",
+      "2022-10-10,10:00",
+      "2023-03-20,10:00"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "African Wildlife Safari",
+    "length": 7,
+    "groupLimit": 15,
+    "challenge": "moderate",
+    "averageRating": 4.8,
+    "reviewsCount": 47,
+    "cost": 500,
+    "overview": "Witness Africa's Majestic Wildlife",
+    "details": "Journey through the African plains and come face-to-face with lions, elephants, and zebras in their natural habitats.",
+    "coverPhoto": "african-safari.jpg",
+    "photoGallery": ["safari1.jpg", "safari2.jpg", "safari3.jpg"],
+    "departureDates": [
+      "2022-08-20,08:00",
+      "2023-01-12,08:00",
+      "2023-05-15,08:00"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Asian Culinary Tour",
+    "length": 6,
+    "groupLimit": 20,
+    "challenge": "easy",
+    "averageRating": 4.6,
+    "reviewsCount": 40,
+    "cost": 480,
+    "overview": "A gastronomic journey through Asia",
+    "details": "Savor the rich flavors and culinary traditions of Asia. From street food to gourmet dining, discover the diverse gastronomic wonders of the continent.",
+    "coverPhoto": "asian-culinary.jpg",
+    "photoGallery": ["culinary1.jpg", "culinary2.jpg", "culinary3.jpg"],
+    "departureDates": [
+      "2022-05-10,11:00",
+      "2022-11-22,11:00",
+      "2023-04-02,11:00"
+    ]
+  }
+]
