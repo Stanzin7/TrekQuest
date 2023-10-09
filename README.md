@@ -1,6 +1,6 @@
 # TrekQuest API 🌍
 
-TrekQuest is a robust backend API for travel enthusiasts. Whether you're looking to find popular tours, want to create new exciting adventures, or are eager to collaborate and embark on a journey with like-minded strangers, **TrekQuest** has got you covered. Our primary goal is to ensure your adventurous endeavors are backed with robust functionality and top-notch safety features.
+TrekQuest is robust backend API for travel enthusiasts. Whether you're looking to find popular tours, want to create new exciting adventures, or are eager to collaborate and embark on a journey with like-minded strangers, **TrekQuest** has got you covered. Our primary goal is to ensure your adventurous endeavors are backed with robust functionality and top-notch safety features.
 
 ## 🚀 Features 
 - **Discover Tours:** Dive into a curated list of popular tours and find your next adventure.
