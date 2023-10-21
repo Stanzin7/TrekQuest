@@ -55,5 +55,24 @@
       "2022-11-22,11:00",
       "2023-04-02,11:00"
     ]
+  },
+  {
+    "id": 4,
+    "title": "New York",
+    "length": 6,
+    "groupLimit": 20,
+    "challenge": "easy",
+    "averageRating": 4.6,
+    "reviewsCount": 40,
+    "cost": 480,
+    "overview": "Experience the Bustling Heartbeat of New York City",
+    "details": "From the iconic skyline of Manhattan to the cultural hubs of Brooklyn, immerse yourself in the never-ending energy of the Big Apple.",
+    "coverPhoto": "newYork.jpg",
+    "photoGallery": ["newYork1.jpg", "newYork2.jpg", "newYork3.jpg"],
+    "departureDates": [
+      "2022-05-10,11:00",
+      "2022-11-22,11:00",
+      "2023-04-02,11:00"
+    ]
   }
 ]
