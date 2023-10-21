@@ -1,1 +1,29 @@
+# .gitignore
+
+# Environment-specific configuration
 config.env
+
+# Dependencies
+node_modules/
+
+# Lock files (Uncomment if you don't want to track it)
+# package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.log

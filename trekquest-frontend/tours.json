@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Chicago",
+    "length": 7,
+    "groupLimit": 15,
+    "challenge": "moderate",
+    "averageRating": 4.8,
+    "reviewsCount": 47,
+    "cost": 500,
+    "overview": "Explore the Architectural Marvels of Chicago",
+    "details": "Dive into the rich history of Chicago's skyline. Witness iconic buildings, walk along the Navy Pier, and savor the city's unique culinary offerings.",
+    "coverPhoto": "chicago.jpg",
+    "photoGallery": ["chicago1.jpg", "chicago2.jpg", "chicago3.jpg"],
+    "departureDates": [
+      "2022-08-20,08:00",
+      "2023-01-12,08:00",
+      "2023-05-15,08:00"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Minnesota",
+    "length": 6,
+    "groupLimit": 20,
+    "challenge": "easy",
+    "averageRating": 4.6,
+    "reviewsCount": 40,
+    "cost": 480,
+    "overview": "Experience the Natural Beauty of Minnesota",
+    "details": "From the bustling Twin Cities to the serene Boundary Waters, discover Minnesota's mix of urban charm and natural beauty.",
+    "coverPhoto": "minesotta.jpg",
+    "photoGallery": ["minnesota1.jpg", "minnesota2.jpg", "minnesota3.jpg"],
+    "departureDates": [
+      "2022-05-10,11:00",
+      "2022-11-22,11:00",
+      "2023-04-02,11:00"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "New York",
+    "length": 6,
+    "groupLimit": 20,
+    "challenge": "easy",
+    "averageRating": 4.6,
+    "reviewsCount": 40,
+    "cost": 480,
+    "overview": "Experience the Bustling Heartbeat of New York City",
+    "details": "From the iconic skyline of Manhattan to the cultural hubs of Brooklyn, immerse yourself in the never-ending energy of the Big Apple.",
+    "coverPhoto": "newYork.jpg",
+    "photoGallery": ["newYork1.jpg", "newYork2.jpg", "newYork3.jpg"],
+    "departureDates": [
+      "2022-05-10,11:00",
+      "2022-11-22,11:00",
+      "2023-04-02,11:00"
+    ]
+  }
+]
