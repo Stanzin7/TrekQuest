@@ -1,33 +1,72 @@
-# TrekQuest API 🌍
+# TrekQuest 🌍
 
-TrekQuest is robust backend API for travel enthusiasts. Whether you're looking to find popular tours, want to create new exciting adventures, or are eager to collaborate and embark on a journey with like-minded strangers, **TrekQuest** has got you covered. Our primary goal is to ensure your adventurous endeavors are backed with robust functionality and top-notch safety features.
+TrekQuest consists of both frontend and backend components dedicated to travel enthusiasts. Whether you're exploring popular tours, creating new adventures, or collaborating with others, **TrekQuest** has got you covered. We aim for robust functionality and top-notch safety.
 
-## 🚀 Features 
-- **Discover Tours:** Dive into a curated list of popular tours and find your next adventure.
-- **Create Tours:** Got a unique tour idea? Add it to the platform and let others join in.
-- **Collaborate:** Connect with strangers, make new friends, and embark on adventures together.
-- **Safety First:** We prioritize your safety, ensuring all interactions and collaborations are secure and trustworthy.
+## Repository Structure
+
+- **trekquest-frontend**: This folder contains the frontend code. Currently, Firebase serves it locally. Once the backend is complete, we'll host it together.
+- **trekquest-backend**: This directory holds the backend API. It's undergoing development, with the end goal to be hosted on railway.app upon completion.
+
+## 🚀 Features
+
+- **Discover Tours**: Browse through curated tours to find your next adventure.
+- **Create Tours**: Share unique tour ideas and gather fellow enthusiasts.
+- **Collaborate**: Build connections, find new friends, and embark on mutual adventures.
+- **Safety First**: Safety is our priority. All interactions on our platform are secure.
 
 ## 📌 API Endpoints
-Currently, the API offers simple CRUD operations. However, we are in the process of expanding its functionalities.
 
-| Endpoint         | Description                                      |
-|------------------|--------------------------------------------------|
-| `GET /tours`     | Retrieve a list of all available tours.          |
-| `POST /tours`    | Create a new tour.                               |
-| `GET /tours/:id` | Get detailed information about a specific tour.  |
-| `PUT /tours/:id` | Update details of a specific tour.               |
-| `DELETE /tours/:id`| Remove a specific tour from the platform.     |
-... _(more endpoints can be listed here)_
+While the API currently offers basic CRUD operations, expanded functionalities are planned.
 
-## 🛠 Development 
-This project serves as a part of my **CS 460 PROJECT**. It's an evolving piece of work, and more features and refinements are on the horizon.
+| Endpoint            | Description                         |
+| ------------------- | ----------------------------------- |
+| `GET /tours`        | Retrieve all available tours.       |
+| `POST /tours`       | Create a new tour.                  |
+| `GET /tours/:id`    | Fetch details of a specific tour.   |
+| `PUT /tours/:id`    | Update a particular tour's details. |
+| `DELETE /tours/:id` | Remove a tour from the platform.    |
 
-## 🗓 Project Timeline 
-The expected delivery date for this project is <span style="color:red">**December 1st**</span>.
+## 🛠 Development
 
-## 🚦 Getting Started 
-(Here, you can include instructions on how to set up the project locally, how to install dependencies, run the project, etc.)
+This project is part of my **CS 460 PROJECT**. Continuous improvements and new features are planned.
 
-## 🤝 Feedback and Contribution 
-I welcome feedback, suggestions, and contributions. If you have ideas or found a bug, please open an issue or submit a pull request.
+## 🗓 Project Timeline
+
+The anticipated project delivery date is **December 1st**.
+
+## 🚦 Getting Started
+
+1. **Clone the Repository:**
+
+   ```sh
+    git clone https://github.com/your-username/TrekQuest.git
+
+   ```
+
+2. **Navigate to the Frontend:**
+
+   ```bash
+   cd TrekQuest/trekquest-frontend
+
+   ```
+
+3. **Serve the Frontend Locally with Firebase:**
+   ``bash
+   cd TrekQuest/trekquest-backend
+
+4. **Navigate to the backend:**
+
+   ``bash
+   cd TrekQuest/trekquest-backend
+
+   Install dependencies:
+   ``bash
+   npm install
+
+   Start the server (once the backend is ready to be run):
+   ``bash
+   npm start
+
+## 🤝 Feedback and Contribution
+
+Your feedback and contributions are valuable. For ideas or bugs, please open an issue or submit a pull request.
