@@ -1,5 +1,7 @@
 # TrekQuest 🌍
 
+<img width="1400" alt="Trekquest-front-page" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/ce2a5f17-dbbb-47f4-959d-b82acd27a1b4">
+<br></br>
 TrekQuest consists of both frontend and backend components dedicated to travel enthusiasts. Whether you're exploring popular tours, creating new adventures, or collaborating with others, **TrekQuest** has got you covered. We aim for robust functionality and top-notch safety.
 
 ## Repository Structure
