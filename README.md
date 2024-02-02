@@ -1,6 +1,15 @@
 # TrekQuest 🌍
 
-<img width="1400" alt="Trekquest-front-page" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/ce2a5f17-dbbb-47f4-959d-b82acd27a1b4">
+<img width="1440" alt="Trekquest-front-page" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/35b9369d-2f43-4414-aae4-2a8c2a7b307b">
+
+<img width="1440" alt="Screenshot 2024-02-02 at 5 29 39 PM" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/8fd8122e-28f4-4b78-a557-7ee095526582">
+
+<img width="1436" alt="Screenshot 2024-02-02 at 5 30 10 PM" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/27784aa2-2ac4-4e67-ab94-9b8647c501d0">
+
+<img width="1440" alt="Screenshot 2024-02-02 at 5 30 20 PM" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/2ac6cb24-01a6-41ab-b24e-9b0cd86c7e9f">
+
+<img width="1440" alt="Screenshot 2024-02-02 at 5 30 28 PM" src="https://github.com/Stanzin7/TrekQuest/assets/109467334/d75a7a96-734f-46a0-9c4d-dcac1f35642b">
+
 <br></br>
 TrekQuest consists of both frontend and backend components dedicated to travel enthusiasts. Whether you're exploring popular tours, creating new adventures, or collaborating with others, **TrekQuest** has got you covered. We aim for robust functionality and top-notch safety.
 
