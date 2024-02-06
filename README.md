@@ -3,7 +3,7 @@
 
 Welcome to TrekQuest, a project born out of passion, innovation, and the desire to connect travelers worldwide. As part of my journey into the tech world, I've documented my experiences, learnings, and the story behind TrekQuest in a comprehensive post on Medium.
 
-📖 **Read the Full Story**: [MLH Fellowship Application 2024 Cohort and The Journey of TrekQuest](https://medium.com/@snorzang65/mlh-fellowship-application-2024-cohort-b32ed79e6bea)
+📖 **Read the Full Story here **: [MLH Fellowship Application 2024 Cohort and The Journey of TrekQuest](https://medium.com/@snorzang65/mlh-fellowship-application-2024-cohort-b32ed79e6bea)
 
 This post dives deep into my application for the MLH Fellowship 2024 Cohort, my experiences, the motivation behind TrekQuest, and how this project embodies my journey in technology and open-source contribution. Whether you're here to explore the code, contribute, or find inspiration, I hope my story on Medium gives you a glimpse into the passion that drives this project.
 
